@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  ThemeRow.swift
 //  Memorize
 //
 //  Created by Dmytro Hetman on 11.09.2022.
@@ -7,14 +7,14 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct ThemeRow: View {
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct ThemeRow_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        ThemeRow()
     }
 }
